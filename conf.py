@@ -9,10 +9,10 @@ import time
 
 # Data about this site
 BLOG_AUTHOR = "PyUGRM Orgas"
-BLOG_TITLE = "Python UserGroup Rhein-Main"
+BLOG_TITLE = "Python UG Rhein-Main"
 # This is the main URL for your site. It will be used
 # in a prominent link
-SITE_URL = "http://pyugrm.de/"
+SITE_URL = "http://www.pyugrm.de/"
 # This is the URL where nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "http://getnikola.com/"
