@@ -252,7 +252,7 @@ ONE_FILE_POSTS = True
 # Where the output site should be located
 # If you don't use an absolute path, it will be considered as relative
 # to the location of conf.py
-# OUTPUT_FOLDER = 'output'
+OUTPUT_FOLDER = '../pyugrm.github.io'
 
 # where the "cache" of partial generated content should be located
 # default: 'cache'
