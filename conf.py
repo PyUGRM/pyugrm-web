@@ -86,9 +86,9 @@ TRANSLATIONS_PATTERN = "{path}.{ext}.{lang}"
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ('/stories/uber-die-python-usergroup-rhein-main-pyugrm.html', 'Was ist die PyUGRM?'),
-        ('/stories/termine.html', 'Termine & Locations'),
-        ('/index.html', 'Vergangene Treffen'),
-        ('/stories/community.html', 'Links & Community'),
+        ('/index.html', 'Neuigkeiten'),
+        ('/stories/termine.html', 'Termine & Orte'),
+        ('/stories/community.html', 'Community'),
         ('/stories/impressum.html', 'Impressum'),
         #('/archive.html', 'Archives'),
         #('/categories/index.html', 'Tags'),
@@ -239,7 +239,7 @@ ONE_FILE_POSTS = True
 # relative URL.
 #
 # If you don't need any of these, just set to []
-# REDIRECTIONS = []
+REDIRECTIONS = []
 
 # Commands to execute to deploy. Can be anything, for example,
 # you may use rsync:
@@ -513,6 +513,7 @@ CONTENT_FOOTER = CONTENT_FOOTER.format(email=BLOG_EMAIL,
 # <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4f7088a56bb93798"></script>
 # <!-- End of social buttons -->
 # """
+SOCIAL_BUTTONS_CODE = ''  # addthis may be a good idea, but needs config tweaking
 
 # Hide link to source for the posts?
 HIDE_SOURCELINK = True
