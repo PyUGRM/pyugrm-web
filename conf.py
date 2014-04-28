@@ -16,7 +16,7 @@ SITE_URL = "http://pyugrm.de/"
 # This is the URL where nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "http://getnikola.com/"
-BLOG_EMAIL = "joe@demo.site"
+BLOG_EMAIL = "info@pyugrm.de"
 BLOG_DESCRIPTION = "Die Webseite der Python UserGroup Rhein-Main"
 
 # Nikola is multilingual!
