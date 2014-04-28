@@ -89,6 +89,7 @@ NAVIGATION_LINKS = {
         ('/stories/termine.html', 'Termine & Locations'),
         ('/index.html', 'Vergangene Treffen'),
         ('/stories/community.html', 'Links & Community'),
+        ('/stories/impressum.html', 'Impressum'),
         #('/archive.html', 'Archives'),
         #('/categories/index.html', 'Tags'),
         ('/rss.xml', 'RSS'),
