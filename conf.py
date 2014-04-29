@@ -270,9 +270,9 @@ OUTPUT_FOLDER = '../pyugrm.github.io'
 # plugin (`nikola install_plugin ping`).
 # To do manual deployment, set it to []
 DEPLOY_COMMANDS = [
-  'cd ' + OUTPUT_FOLDER,  # change cwd to generated static html in OUTPUT_FOLDER
-  'git add .',  # adding changed files to git
-  'git commit -m "auto-deployment to pyugrm.github.io using nikola deploy"',  # commiting changed files
+  'cd ' + OUTPUT_FOLDER + '&&' +  # change cwd to generated static html in OUTPUT_FOLDER
+  'git add .' + '&&' + # adding changed files to git
+  'git commit -m "auto-deployment to pyugrm.github.io using nikola deploy"' + "&&" +  # commiting changed files
   'git push origin master',  # pushing to github.io, user/password should have been set in git config
   # 'nikola ping',  # pinging some search engines (don't SPAM!)
 ]
