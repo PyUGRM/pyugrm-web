@@ -258,22 +258,28 @@ ONE_FILE_POSTS = True
 # If you don't need any of these, just set to []
 REDIRECTIONS = []
 
+# Where the output site should be located
+# If you don't use an absolute path, it will be considered as relative
+# to the location of conf.py
+OUTPUT_FOLDER = '../pyugrm.github.io'
+
 # Commands to execute to deploy. Can be anything, for example,
 # you may use rsync:
 # "rsync -rav --delete output/ joe@my.site:/srv/www/site"
 # And then do a backup, or run `nikola ping` from the `ping`
 # plugin (`nikola install_plugin ping`).
 # To do manual deployment, set it to []
-# DEPLOY_COMMANDS = []
-
-# Where the output site should be located
-# If you don't use an absolute path, it will be considered as relative
-# to the location of conf.py
-OUTPUT_FOLDER = '../pyugrm.github.io'
+DEPLOY_COMMANDS = [
+  'cd ' + OUTPUT_FOLDER,  # change cwd to generated static html in OUTPUT_FOLDER
+  'git add .',  # adding changed files to git
+  'git commit -m "auto-deployment to pyugrm.github.io using nikola deploy"',  # commiting changed files
+  'git push origin master',  # pushing to github.io, user/password should have been set in git config
+  # 'nikola ping',  # pinging some search engines (don't SPAM!)
+]
 
 # where the "cache" of partial generated content should be located
 # default: 'cache'
-# CACHE_FOLDER = 'cache'
+CACHE_FOLDER = 'cache'
 
 # Filters to apply to the output.
 # A directory where the keys are either: a file extensions, or
@@ -417,12 +423,12 @@ CONTENT_FOOTER = CONTENT_FOOTER.format(email=BLOG_EMAIL,
 # To use comments, you can choose between different third party comment
 # systems, one of "disqus", "livefyre", "intensedebate", "moot",
 #                 "googleplus", "facebook" or "isso"
-# COMMENT_SYSTEM = "disqus"
+COMMENT_SYSTEM = "here-be-dragons"
 # And you also need to add your COMMENT_SYSTEM_ID which
 # depends on what comment system you use. The default is
 # "nikolademo" which is a test account for Disqus. More information
 # is in the manual.
-# COMMENT_SYSTEM_ID = "nikolademo"
+COMMENT_SYSTEM_ID = "here-be-more-dragons"
 
 # Enable annotations using annotateit.org?
 # If set to False, you can still enable them for individual posts and pages
