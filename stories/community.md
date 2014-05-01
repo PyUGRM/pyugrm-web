@@ -75,6 +75,16 @@ Danke an Zoran Zaric!
 
 Danke an Torsten Rühl!
 
+### Arago
+
+<http://www.arago.de/>
+
+    arago Institut für komplexes Datenmanagement AG
+    Eschersheimer Landstrasse 526 – 532
+    60433 Frankfurt am Main
+
+Vielen Dank an das Team vor Ort!
+
 ### Die Zentrale
 
 <https://www.die-zentrale-ffm.de/>
