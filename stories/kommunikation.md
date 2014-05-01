@@ -22,7 +22,7 @@ Es gibt zwei Listen:
 
 Beide Listen sind öffentlich.
 
-# (Live-)Protokolle
+# Protokolle (Etherpads)
 
 Bei jedem Treffen wird ein öffentliches Liveprotokoll erstellt. Damit kann jeder  
 Teilnehmer Anmerkungen, Notizen und Weblinks notieren, die auch nach dem  
@@ -40,11 +40,23 @@ Piratenpads werden nach dem Muster:
 
 erstellt.
 
-Für das 9. Treffen gibt es zum Beispiel ein Pad namens: <http://piratenpad.de/p/PyUGRM09>.
-
 Im Piratenpad ist auch der Ablauf der Treffen im Groben festgelegt, damit eine  
 gewisse Struktur erhalten bleibt.
 
+Liste der bisherigen Live-Protokolle:
+
+1. <http://piratenpad.de/p/PyUGRM01>
+1. <http://piratenpad.de/p/PyUGRM02>
+1. <http://piratenpad.de/p/PyUGRM03>
+1. <http://piratenpad.de/p/PyUGRM04>
+1. <http://piratenpad.de/p/PyUGRM05>
+1. <http://piratenpad.de/p/PyUGRM06>
+1. <http://piratenpad.de/p/PyUGRM07>
+1. <http://piratenpad.de/p/PyUGRM08>
+1. <http://piratenpad.de/p/PyUGRM09>
+1. <http://piratenpad.de/p/PyUGRM10>
+1. <http://piratenpad.de/p/PyUGRM11>
+1. <http://piratenpad.de/p/PyUGRM12>
 
 # Twitter
 
