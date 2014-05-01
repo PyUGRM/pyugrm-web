@@ -1,5 +1,6 @@
 <!-- 
 .. title: Impressum
+.. hidetitle: True
 .. slug: impressum
 .. date: 2014/04/28 12:37:22
 .. tags: 
@@ -8,4 +9,8 @@
 .. type: text
 -->
 
-Write your page here.
+# Impressum
+
+Stefan Antoni  
+Praunheimer Landstraße 210  
+60488 Frankfurt am Main  

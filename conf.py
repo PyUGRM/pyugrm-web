@@ -85,14 +85,15 @@ TRANSLATIONS_PATTERN = "{path}.{ext}.{lang}"
 # You should provide a key-value pair for each used language.
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ('/stories/uber-die-python-usergroup-rhein-main-pyugrm.html', 'Was ist die PyUGRM?'),
         ('/index.html', 'Neuigkeiten'),
-        ('/stories/termine.html', 'Termine & Orte'),
-        ('/stories/community.html', 'Community'),
-        ('/stories/impressum.html', 'Impressum'),
+        ('/stories/uber-die-python-usergroup-rhein-main-pyugrm/', 'Über uns'),
+        ('/stories/kommunikation/', 'Kommunikation'),
+        ('/stories/termine-der-python-user-group-rhein-main/', 'Termine'),
+        ('/stories/infos-zur-python-community-in-rhein-main/', 'Community'),
+        ('/stories/impressum/', 'Impressum'),
+        ('/rss.xml', 'RSS'),
         #('/archive.html', 'Archives'),
         #('/categories/index.html', 'Tags'),
-        ('/rss.xml', 'RSS'),
     ),
 }
 
@@ -271,7 +272,7 @@ OUTPUT_FOLDER = '../pyugrm.github.io'
 # To do manual deployment, set it to []
 DEPLOY_COMMANDS = [
   'cd ' + OUTPUT_FOLDER + '&&' +  # change cwd to generated static html in OUTPUT_FOLDER
-  'git add .' + '&&' + # adding changed files to git
+  'git add --all' + '&&' + # adding changed files to git
   'git commit -m "auto-deployment to pyugrm.github.io using nikola deploy"' + "&&" +  # commiting changed files
   'git push origin master',  # pushing to github.io, user/password should have been set in git config
   # 'nikola ping',  # pinging some search engines (don't SPAM!)
@@ -361,7 +362,8 @@ CACHE_FOLDER = 'cache'
                              # the main (the newest) index page (index.html)
 
 # Name of the theme to use.
-THEME = "bootstrap3"
+#THEME = "bootstrap3"
+THEME = "pyugrm_custom_theme"
 
 # Color scheme to be used for code blocks. If your theme provides
 # "assets/css/code.css" this is ignored.
@@ -455,7 +457,7 @@ COMMENT_SYSTEM_ID = "here-be-more-dragons"
 # it will instead /foo/default.html => /foo)
 # (Note: This was briefly STRIP_INDEX_HTML in v 5.4.3 and 5.4.4)
 # Default = False
-# STRIP_INDEXES = False
+STRIP_INDEXES = True
 
 # Should the sitemap list directories which only include other directories
 # and no files.
@@ -470,7 +472,7 @@ COMMENT_SYSTEM_ID = "here-be-more-dragons"
 # This can be disabled on a per-page/post basis by adding
 #    .. pretty_url: False
 # to the metadata
-# PRETTY_URLS = True
+PRETTY_URLS = True
 
 # If True, publish future dated posts right away instead of scheduling them.
 # Defaults to False.
@@ -520,6 +522,10 @@ COMMENT_SYSTEM_ID = "here-be-more-dragons"
 # You will also get gist, nikola and podcast because those are
 # done in the code, hope you don't mind ;-)
 # MARKDOWN_EXTENSIONS = ['fenced_code', 'codehilite']
+
+# i disabled codehilite because in markdown it will guess the language and will
+# find "errors" in normal plaintext
+MARKDOWN_EXTENSIONS = ['fenced_code',]
 
 # Social buttons. This is sample code for AddThis (which was the default for a
 # long time). Insert anything you want here, or even make it empty.
