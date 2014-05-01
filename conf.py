@@ -271,9 +271,9 @@ OUTPUT_FOLDER = '../pyugrm.github.io'
 # plugin (`nikola install_plugin ping`).
 # To do manual deployment, set it to []
 DEPLOY_COMMANDS = [
-  'cd ' + OUTPUT_FOLDER + '&&' +  # change cwd to generated static html in OUTPUT_FOLDER
-  'git add --all' + '&&' + # adding changed files to git
-  'git commit -m "auto-deployment to pyugrm.github.io using nikola deploy"' + "&&" +  # commiting changed files
+  'cd ' + OUTPUT_FOLDER + ' && ' +  # change cwd to generated static html in OUTPUT_FOLDER
+  'git add --all' + ' && ' + # adding changed files to git
+  'git commit -m "auto-deployment to pyugrm.github.io using nikola deploy"' + " && " +  # commiting changed files
   'git push origin master',  # pushing to github.io, user/password should have been set in git config
   # 'nikola ping',  # pinging some search engines (don't SPAM!)
 ]
@@ -382,7 +382,7 @@ THEME = "pyugrm_custom_theme"
 
 # date format used to display post dates.
 # (str used by datetime.datetime.strftime)
-# DATE_FORMAT = '%Y-%m-%d %H:%M'
+DATE_FORMAT = '%Y-%m-%d'
 
 # FAVICONS contains (name, file, size) tuples.
 # Used for create favicon link like this:
@@ -525,7 +525,7 @@ PRETTY_URLS = True
 
 # i disabled codehilite because in markdown it will guess the language and will
 # find "errors" in normal plaintext
-MARKDOWN_EXTENSIONS = ['fenced_code',]
+MARKDOWN_EXTENSIONS = ['fenced_code', 'toc']
 
 # Social buttons. This is sample code for AddThis (which was the default for a
 # long time). Insert anything you want here, or even make it empty.
