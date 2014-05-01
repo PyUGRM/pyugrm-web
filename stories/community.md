@@ -16,8 +16,22 @@ Gebiet, die uns in der Vergangenheit ihre Räumlichkeiten zur Verfügung gestell
 haben. Außerdem gibt es noch andere Veranstaltungen und lokale usergroups, die  
 sich mit Python beschäftigen.
 
+---
+
+[TOC]
+
+---
+
 ## Locations in denen die PyUGRM zu Gast war
 
+### Paratio e. K.
+
+<http://www.paratio.com>
+
+    Große Eschenheimer Straße 41a
+    60313 Frankfurt am Main
+
+Vielen Dank an Carsten Logemann und Walter Ebert!
 
 ### CoSee GmbH
 
@@ -60,6 +74,23 @@ Danke an Zoran Zaric!
     61352 Bad Homburg
 
 Danke an Torsten Rühl!
+
+### Die Zentrale
+
+<https://www.die-zentrale-ffm.de/>
+
+    Berger Straße 175
+    60385 Frankfurt am Main
+
+Vielen Dank an das Team vor Ort!
+
+### OFfenraum
+
+<http://offenraum.de>
+
+Leider mittlerweile geschlossen. Dennoch vielen Dank an Markus Tacker, der auch
+diese UG ins Leben gerufen hat und mit Sicherheit bereits an weiteren,
+spannenden Projekten arbeitet :-)
 
 ## Regelmäßige Treffs in Rhein-Main
 
