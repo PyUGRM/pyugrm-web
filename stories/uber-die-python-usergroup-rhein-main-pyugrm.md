@@ -32,9 +32,18 @@ Nutzt diese Möglichkeit! :-)
 
 ## Wie läuft so ein Treffen ab?
 
-Meistens starten wir mit ein paar kleineren lightning talks zu interessanten  
-Projekten oder auch mal einem größeren Vortrag über ein Thema. Hier ist  
-also Mitmachen angesagt.
+Die Dauer der Treffen liegt bei etwa 2 Stunden (19:30 - 21 Uhr) und  
+anschließendem Networking.
+
+Meistens starten wir mit einer lockeren Vorstellungsrunde und ein paar  
+kleineren lightning talks zu interessanten Projekten oder auch mal einem  
+größeren Vortrag über ein Thema. Hier es ist also entspanntes Mitmachen  
+angesagt.
+
+Es ist außerdem immer toll, wenn ihr Code oder konkrete Probleme mitbringt,  
+die wir dann besprechen können. Das ist immer spannend und man lernt in kurzer  
+Zeit viel dazu, denn gerade das Debuggen von komplexen Problemen ist gemeinsam  
+viel einfacher und weniger frustrierend als alleine.
 
 Begleitend zum Treffen entsteht immer ein Liveprotokoll, dass kollaborativ von  
 allen Anwesenden gefüllt wird. Damit bleibt das Treffen, die besprochenen  
@@ -44,11 +53,12 @@ Themen und die genannten Weblinks auch im Nachhinein verfügbar.
 
 Die Grundlagen der [Programmiersprache Python][python.org] sind schnell und einfach  
 zu erlernen und auf allen modernen Betriebssystemen nutzbar.  
-Trotz der Einfachheit ist Python auch für große Softwareprojekte nutzbar. 
 
-Python ist eine Multi-Paradigmen-Sprache und damit sind sowohl [prozedurale][prozprog] als  
-auch (große) [objektorientierte][objprog] Projekte möglich. Darüber hinaus fühlen sich  
-auch Fans [funktionaler Programmierung][funcprog] in der Python-Welt wohl.  
+Trotz der Einfachheit ist Python auch für große Softwareprojekte eine gute Wahl. 
+
+Python ist außerdem eine Multi-Paradigmen-Sprache und macht sowohl [prozedurale][prozprog] als  
+auch (große) [objektorientierte][objprog] Projekte möglich. Darüber hinaus fühlen sich auch Fans  
+[funktionaler Programmierung][funcprog] in der Python-Welt wohl.  
 
 Darüberhinaus existiert eine große Vielfalt von [Paketen und Modulen][pypi],  
 um für die allermeisten Aufgabenstellungen gewappnet zu sein.

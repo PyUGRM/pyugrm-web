@@ -22,6 +22,14 @@ Es gibt zwei Listen:
 
 Beide Listen sind öffentlich.
 
+# Twitter
+
+Auf Twitter sind wir als [@PyUGRM][twitter] zu erreichen. Hierüber bekommt ihr von  
+uns die last minute Ankündigungen der Treffen und könnt uns natürlich auch zu  
+jeder Zeit kontaktieren. Als Hashtag bitte `#pyugrm` verwenden.
+
+Längere Diskussionen sind dagegen in den Mailinglisten besser aufgehoben ;-)
+
 # Protokolle (Etherpads)
 
 Bei jedem Treffen wird ein öffentliches Liveprotokoll erstellt. Damit kann jeder  
@@ -58,13 +66,9 @@ Liste der bisherigen Live-Protokolle:
 1. <http://piratenpad.de/p/PyUGRM11>
 1. <http://piratenpad.de/p/PyUGRM12>
 
-# Twitter
+# Internet Relay Chat (IRC)
 
-Auf Twitter sind wir als [@PyUGRM][twitter] zu erreichen. Hierüber bekommt ihr von  
-uns die last minute Ankündigungen der Treffen und könnt uns natürlich auch zu  
-jeder Zeit kontaktieren.
-
-Längere Diskussionen sind dagegen in den Mailinglisten besser aufgehoben ;-)
+Es gibt einen Channel im IRC: `#pyugrm` auf <a href="irc://irc.freenode.net">irc.freenode.net</a>.
 
 # Webseite
 
