@@ -32,9 +32,6 @@ Nutzt diese Möglichkeit! :-)
 
 ## Wie läuft so ein Treffen ab?
 
-Die Dauer der Treffen liegt bei etwa 2 Stunden (19:30 - 21 Uhr) und  
-anschließendem Networking.
-
 Meistens starten wir mit einer lockeren Vorstellungsrunde und ein paar  
 kleineren lightning talks zu interessanten Projekten oder auch mal einem  
 größeren Vortrag über ein Thema. Hier es ist also entspanntes Mitmachen  
