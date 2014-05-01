@@ -111,4 +111,11 @@ sich im Zwei-Wochen-Rhythmus trifft um sich über Projekte und Ideen
 auszutauschen. Außerdem gibt es Vorträge rund um Python-Projekte und  
 Software Engineering.
 
+### Rhein-Main Rocks
+
+Auf <http://www.rheinmainrocks.de> gibt es unter <http://usergroups.rheinmainrocks.de> eine  
+Übersicht über viele verschiedene UGs im Rhein-Main Gebiet. Dieses Verzeichnis  
+wird über [diese Github-Seite][2] gepflegt.
+
 [1]: http://pystada.github.io
+[2]: https://github.com/coderbyheart/ugrm-data
