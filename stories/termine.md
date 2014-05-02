@@ -19,6 +19,8 @@ Die Treffen der PyUGRM finden nach folgendem Muster statt:
 
 Im Fall von hessischen Feiertagen werden die Treffen ggfs. auch mal verschoben ;-)
 
+Die nächsten Termine sind zusätzlich in [diesem iCal Feed][ical] zu finden.
+
 ---
 
 [TOC]
@@ -98,3 +100,4 @@ TBD - wir sind offen für Vorschläge: <info@pyugrm.de>
 
 [paratio]: http://paratio.com
 [walterebert]: https://twitter.com/wltrd
+[ical]: https://www.google.com/calendar/ical/ke60km0ljqrjdtdpdo8irchfu0%40group.calendar.google.com/public/basic.ics
