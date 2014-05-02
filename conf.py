@@ -272,9 +272,10 @@ OUTPUT_FOLDER = '../pyugrm.github.io'
 # To do manual deployment, set it to []
 DEPLOY_COMMANDS = [
   'cd ' + OUTPUT_FOLDER + ' && ' +  # change cwd to generated static html in OUTPUT_FOLDER
+  '(ls -1 .git > /dev/null 2>&1 || (git init && git remote add origin git@github.com:PyUGRM/PyUGRM.github.io.git))' + ' && ' +  # make sure there is a git repository in OUTPUT_FOLDER
   'git add --all' + ' && ' + # adding changed files to git
-  'git commit -m "auto-deployment to pyugrm.github.io using nikola deploy"' + " && " +  # commiting changed files
-  'git push origin master',  # pushing to github.io, user/password should have been set in git config
+  'git commit -m "auto-deployment to pyugrm.github.io using nikola deploy"' + ' && ' +  # commiting changed files
+  'git push --force origin master',  # pushing to github.io, user/password should have been set in git config
   # 'nikola ping',  # pinging some search engines (don't SPAM!)
 ]
 
