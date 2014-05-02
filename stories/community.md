@@ -24,9 +24,9 @@ sich mit Python beschäftigen.
 
 ## Locations in denen die PyUGRM zu Gast war
 
-### Paratio e. K.
+### paratio.com e.K.
 
-<http://www.paratio.com>
+<http://paratio.com>
 
     Große Eschenheimer Straße 41a
     60313 Frankfurt am Main
