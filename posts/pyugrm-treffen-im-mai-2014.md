@@ -9,7 +9,7 @@
 -->
 
 Es ist bald wieder soweit, ein neuer PyUGRM steht an!  
-Am 16. Mai um 19:30 Uhr geht es los.  
+Am 15. Mai um 19:30 Uhr geht es los.  
 Alle Details inkl. [Adresse und Anfahrtbeschreibung][termin] findet ihr unter [Termine][termine].
 
 [termin]: http://pyugrm.de/stories/termine-der-python-user-group-rhein-main/#mai-2014
