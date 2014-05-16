@@ -30,13 +30,24 @@ euch beim Nachschlagen helfen soll.
 
 # Links zu Themen von PyUGRM-Treffen
 
-*Dieser Abschnitt wird ausgefüllt, sobald die Etherpads wieder online sind*
+## Lernen und verstehen
 
-# Links zu weiteren Linksammlungen
+* Der [Python guide][10] ist eine hilfreiche Ressource mit best practices  
+  zu Installation, Programmierung und 3rd party Modulen, die auf  
+  Github kollaborativ gepflegt und erweitert wird
+
+## Python Software & Module
+
+*hier kommen die links aus den etherpads rein, sobald die etherpads mal wieder online sind ;-)*
+
+# Weitere Links von allgemeinem Interesse
 
 ## Konferenzen
 
-* Auf [python.org][1] werden Konferenzen rund um Python gesammelt
+* Auf [pycon.org][2] werden weltweit Konferenzen rund um Python gesammelt
+* Die [europython.eu][9] ist eine jährliche Konferenz rund um Python, die in Europa stattfindet
+* Die [djangocon.eu][7] ist eine jährliche Konferenz mit Fokus auf das [Django Web Framework][8], 
+  die in Europa stattfindet
 
 ## Lokale User Groups
 
@@ -56,3 +67,8 @@ euch beim Nachschlagen helfen soll.
 [3]: http://www.pyvideo.org/
 [4]: http://www.pythonweekly.com/
 [5]: http://pycoders.com/
+[6]: http://www.pycon.org/
+[7]: http://djangocon.eu
+[8]: https://www.djangoproject.com/
+[9]: http://europython.eu/
+[10]: http://docs.python-guide.org/en/latest/
