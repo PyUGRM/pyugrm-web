@@ -21,6 +21,7 @@ ipython==1.1.0
 livereload==2.2.0
 lxml==3.3.4
 mincss==0.8.1
+natsort==3.2.0
 python-dateutil==2.2
 pytz==2014.2
 requests==1.2.3
