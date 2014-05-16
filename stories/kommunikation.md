@@ -65,6 +65,7 @@ Liste der bisherigen Live-Protokolle:
 1. <http://piratenpad.de/p/PyUGRM10>
 1. <http://piratenpad.de/p/PyUGRM11>
 1. <http://piratenpad.de/p/PyUGRM12>
+1. <http://piratenpad.de/p/PyUGRM13>
 
 # Internet Relay Chat (IRC)
 
