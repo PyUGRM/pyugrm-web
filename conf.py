@@ -547,7 +547,7 @@ MARKDOWN_EXTENSIONS = ['fenced_code', 'toc']
 SOCIAL_BUTTONS_CODE = ''  # addthis may be a good idea, but needs config tweaking
 
 # Hide link to source for the posts?
-HIDE_SOURCELINK = True
+SHOW_SOURCELINK = False
 # Copy the source files for your pages?
 # Setting it to False implies HIDE_SOURCELINK = True
 COPY_SOURCES = False
