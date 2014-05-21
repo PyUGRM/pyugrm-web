@@ -11,7 +11,7 @@
 Am 21. Mai um 19:30 Uhr geht es los.
 
 * Alle Infos gibt es hier: <http://pystada.github.io/>  
-* Das Pad zur Planung ist zu finden unter <https://pads.ccc.de/pystada-2014-05-21>  
+* Das Pad zur Planung ist zu finden unter <https://etherpad.mozilla.org/pystada-2014-05-21>  
 
 Adresse:
 
