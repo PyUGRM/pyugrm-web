@@ -1,6 +1,6 @@
 <!-- 
 .. title: Python Stammtisch Darmstadt trifft sich wieder
-.. slug: python-stammtisch-darmstadt-trifft-sich-wieder
+.. slug: python-stammtisch-darmstadt-trifft-sich-wieder-1
 .. date: 2014/05/05 10:18:49
 .. tags: 
 .. link: 
