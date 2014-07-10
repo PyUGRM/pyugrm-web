@@ -70,7 +70,41 @@ Am Mittwoch, 16.07.2014 um 19:30
 
 ### Ort
 
-TBD - wir sind offen für Vorschläge: <info@pyugrm.de>
+Der Juli-PyUGRM wird diesmal zum "Double-Feature"! ;-)
+
+Wir sind wieder zu Gast in der [Trollhöhle][trollhoehle] in Darmstadt, und da der Termin  
+mit dem 2-wöchentlichen Treff der [Python UserGroup Darmstadt][pystada] zusammen  
+fällt, haben wir die Termine einfach zusammen gelegt.
+
+Die Lokale Orga in der Trollhöhle übernimmt Felix Breidenstein (@fleazpulli).
+
+#### Adresse
+
+<http://chaos-darmstadt.de/>
+
+    Hochschulgruppe Chaos Darmstadt e.V.
+    
+    Wilhelm-Leuschner-Strasse 36, im Hinterhof
+    64293 Darmstadt
+    info@chaos-darmstadt.de
+
+#### Anfahrt
+
+ÖPNV:  
+Vom Hauptbahnhof Darmstadt sind es knapp zwei Kilometer zu Fuß. Ich bin  
+nicht sicher, ob es eine nahegelegene ÖPNV-Haltestelle gibt, Google meint
+"nein".
+
+Wer bessere Infos hat, bitte direkt an <info@pyugrm.de> :-)
+
+PKW:  
+Mit dem PKW ist es sehr schwierig in der Nähe einen Parkplatz zu bekommen, aber  
+es ist mir schon gelungen. Je früher ihr kommt, desto besser.
+
+### Agenda
+
+Für die Planung der Agenda nehmen wir diesmal das PyStaDa Pad. Bitte tragt eure  
+Wünsche, Ideen und Workshops dort ein: <https://pads.ccc.de/pystada-2014-07-16>.
 
 ---
 
@@ -101,3 +135,5 @@ TBD - wir sind offen für Vorschläge: <info@pyugrm.de>
 [paratio]: http://paratio.com
 [walterebert]: https://twitter.com/wltrd
 [ical]: https://www.google.com/calendar/ical/ke60km0ljqrjdtdpdo8irchfu0%40group.calendar.google.com/public/basic.ics
+[trollhoehle]: http://pyugrm.de/stories/infos-zur-python-community-in-rhein-main/#ccc-darmstadt-aka-die-trollhohle
+[pystada]: http://pystada.github.io/
